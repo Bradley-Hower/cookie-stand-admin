@@ -1,40 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# LAB - Class 37
+
+## Project: Cookie Stand Admin - Leveling up Front End with React, Next.js & TailwindCSS
+
+## Author: Bradley Hower
+
+## Overview
+
+In this lab, the webpage created is made to best emulate the mockup screenshot found at [Cookie Stand Admin Version 1](https://codefellows.github.io/seattle-code-python-401d24/class-37/lab/cookie-stand-admin-version-1.png). Webpage is made using Next.js, which is a framework that builds on top of TailwindsCSS and React.
 
 ## Getting Started
 
-First, run the development server:
+To run:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+`npm run dev`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Follow the url given in the prompt to view the web page.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Tests
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+NA
