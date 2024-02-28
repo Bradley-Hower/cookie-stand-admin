@@ -3,7 +3,7 @@ import { stringify } from 'postcss';
 import { useState } from 'react';
 
 export default function Home() {
-  const [reply, setReply] = useState("Welcome");
+  const [reply, setReply] = useState(JSON.stringify(["Welcome"]));
   
   function formHandler(event) {
     event.preventDefault();
@@ -67,7 +67,7 @@ function DataForm(props) {
 
 function Response(props) {
   return (
-  <p className="flex justify-center py-24 text-gray-600r">{props.reply}</p>
+  <p className="flex justify-center py-24 text-gray-600r">{JSON.parse(props.reply)}</p>
   );
 }
 
